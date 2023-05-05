@@ -1,0 +1,12 @@
+{
+  "name": "PDF-to-JSON",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RagnarLothbrok-Odin/PDF-to-JSON.git",
+  "author": "Ragnar Lothbrok <30740511+RagnarLothbrok-Odin@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "pdf-parse": "^1.1.1"
+  }
+}
